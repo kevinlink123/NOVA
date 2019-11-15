@@ -1,0 +1,15 @@
+Noviembre de 2018 : Brain Storming, generando la primeras ideas del proyecto.
+11 marzo 2019 : Compra de placa Asus tinkerboard, compra de pantalla.
+24 de marzo : Asus llega a nuestras manos para ser trabajada.
+24 de marzo : Pagina web en www.matiwiseman46.wixsite.com
+29 de marzo: Desicion que se utilizara raspberry en lugar de mi placa, por el simple hecho que emula de mala manera y no es tan accsesible como el foro de raspi
+5-04 al 12-04 : Estudio de materiales, e impresiones, estudios de joysticks Libres.
+12-04 al 19-04 : Estudio de un tipo de impresion "Draft" para el prototipo, estudios de como funciona nintendo switch y simular su funcionamiento de consola hibrida
+19-04 al 26-04 : Estudio de modificacion de retropie, estudios de ergonomia para implementar
+26_04 al 3-05 : Cambio de Asus a raspi para mayor eficiencia en la emulacion de retropie, PRACTICAS CON VIRTUALBOX 
+3-05 al 10-05 : Montar consola ( primeras pruebas ), estudios de phyton para los GPIO.
+17_05 al 23-05 : Compra de botones, funcionamiento de nucleos de consolas (estudiando y probando) 
+Teslapolis a fin de año: Estudios de funcionamiento y mejora, trabajo en hardware y diseños de la consola
+
+
+
